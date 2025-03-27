@@ -3,7 +3,7 @@
 ## Description
 A basic calculator application built with PyQt5. It supports standard arithmetic operations (addition, subtraction, multiplication, division) and includes clear (C) and backspace (<) functionality.
 
-![images/screenshot.png]
+![Calculator Screenshot](images/demo.png)
 
 ## Features
 - Clean, dark-themed interface
